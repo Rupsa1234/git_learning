@@ -53,5 +53,5 @@ git log --oneline --graph --decorate --all
 
 ![alt text](image-11.png)
 
-📄 Check out the [Git Cheat Sheet](CSGIT.md)
+📄 Check out the [Git Cheat Sheet](GitCheatSheet.md)
 
