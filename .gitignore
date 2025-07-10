@@ -1,0 +1,11 @@
+
+# Ignore log files
+*.log
+
+# Ignore environment variable files
+.env
+
+# Ignore node_modules folder (for Node.js projects)
+node_modules/
+
+secret.txt
