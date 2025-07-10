@@ -55,6 +55,3 @@ git log --oneline --graph --decorate --all
 
 📄 Check out the [Git Cheat Sheet](CSGIT.md)
 
-
-
-
