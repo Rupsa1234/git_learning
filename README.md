@@ -91,6 +91,8 @@ Best for :	Public/shared repositories	                                   Private
 
 ### Section 2: Branching & Merging Mastery
 ## Task 2.1: Branch Creation & Management
+
 1. Create feature branches:
 
+![alt text](image-17.png)
 
