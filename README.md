@@ -93,4 +93,18 @@ Best for :	Public/shared repositories	                                   Private
 ## Task 2.1: Branch Creation & Management
 1. Create feature branches:
 
+![alt text](image-17.png)
 
+2. 2. Switch between branches and add different features
+   Make at least 2 commits per branch
+
+![alt text](image-18.png)
+
+![alt text](image-19.png)
+
+  Practice git branch -a to see all branches
+
+ ![alt text](image-20.png)
+
+## Task 2.2: Branching
+1. Create branches from specific commits:
