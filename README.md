@@ -583,4 +583,4 @@ Share .git folder Leaks full history, secrets, branches         - Never share .g
 
 ![alt text](screenshots-git\image-101.png)
 
-![alt text](image-102.png)screenshots-git\
+![alt text](screenshots-git\image-102.png)
